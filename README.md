@@ -13,7 +13,7 @@
 
 ## 🌐 Portfolio
 🚀 View my work, projects, and skills here:  
-🔗 **https://nikhil-yagik.netlify.app/**
+🔗 **https://nikhilyagik.dev/**
 
 
 ---
