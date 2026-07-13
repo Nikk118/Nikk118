@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nikhil Yagik</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:8A2BE2&height=200&section=header&text=Hi%20👋,%20I'm%20Nikhil%20Yagik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=AI+%26+ML+Engineer;Full+Stack+Developer;LLM+%26+Agentic+AI+Builder;RAG+%26+LangGraph+Enthusiast&center=true&width=500&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" />
 </p>
-<h3 align="center">AI/ML Engineer | Full-Stack Developer | Building Production-Grade LLM Apps</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nikk118&label=Profile%20Views&color=8A2BE2&style=flat" />
+  <img src="https://img.shields.io/github/followers/Nikk118?label=Followers&style=flat&color=F75C7E" />
+</p>
 
 ---
 
@@ -18,9 +23,27 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikk118&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk118&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikk118&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk118&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikk118&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikk118&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikk118/Nikk118/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</p>
+
+> ℹ️ To enable the snake animation above, add the `platane/snk` GitHub Action to a workflow in this repo (`Nikk118/Nikk118`) — it auto-generates and commits the SVG on a schedule.
 
 ---
 
@@ -39,7 +62,7 @@
 
 ### 🖥️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,svelte,nextjs,tailwind,html,css,bootstrap" />
 </p>
 
 ### ⚙️ Backend
@@ -57,19 +80,18 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI / LLM Projects
-- 🔹 **[BlogAgent](https://github.com/Nikk118)** – Agentic blog generation pipeline with LangGraph fanout workers, Tavily research & Streamlit UI
-- 🔹 **[NexChat](https://github.com/Nikk118)** – Stateful AI chatbot with persistent memory (PostgreSQL), tool-calling agents & PDF RAG via FAISS
-- 🔹 **[TimeCapsule](https://github.com/Nikk118)** – AI-powered reminder vault with LangChain agent for natural language scheduling
+- 🔹 **[BlogAgent (Blog Agent OS)](https://github.com/Nikk118/blogAgent)** – Agentic blog generation pipeline with LangGraph fanout workers, Tavily research & a Next.js/FastAPI stack → [Live Demo](https://blog-agent-omega-ebon.vercel.app/)
+- 🔹 **[NexChat](https://github.com/Nikk118/NexChat)** – Stateful AI chatbot with persistent memory (PostgreSQL), tool-calling agents & PDF RAG via FAISS → [Live Demo](https://nexchatui.streamlit.app/)
+- 🔹 **[TimeCapsule](https://github.com/Nikk118/TimeCapsule)** – AI-powered reminder vault with a LangChain agent for natural language scheduling → [Live Demo](https://timecapsule-upg3.onrender.com/)
 
 ### 🌐 Full-Stack Projects
-- 🔹 **[Selura](https://github.com/Nikk118)** – Production luxury e-commerce platform (Freelance) with PayU integration
+- 🔹 **Selura** – Production luxury e-commerce platform (freelance client project) with PayU payment integration *(private client repo)*
 - 🔹 **[Servielliance](https://github.com/Nikk118/Servilanc)** – MERN service management platform (UrbanClap-inspired)
 - 🔹 **[TalkNest](https://github.com/Nikk118/chatApp)** – Real-time chat app using MERN & Socket.IO
 
 ---
 
 ## 🧠 Currently Learning
-
 - Advanced Agentic AI patterns (multi-agent systems, memory, planning)
 - Fine-tuning open-source LLMs
 - MLOps & model deployment (Docker, FastAPI)
@@ -93,3 +115,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:F75C7E&height=100&section=footer" width="100%"/>
