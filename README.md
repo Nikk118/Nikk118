@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:8A2BE2&height=200&section=header&text=Hi%20👋,%20I'm%20Nikhil%20Yagik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
+<h1 align="center">Hi 👋, I'm Nikhil Yagik</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=AI+%26+ML+Engineer;Full+Stack+Developer;LLM+%26+Agentic+AI+Builder;RAG+%26+LangGraph+Enthusiast&center=true&width=500&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nikk118&label=Profile%20Views&color=8A2BE2&style=flat" />
@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/Nikk118/Nikk118/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </p>
 
-> ℹ️ To enable the snake animation above, add the `platane/snk` GitHub Action to a workflow in this repo (`Nikk118/Nikk118`) — it auto-generates and commits the SVG on a schedule.
+
 
 ---
 
@@ -116,4 +116,4 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:F75C7E&height=100&section=footer" width="100%"/>
+
